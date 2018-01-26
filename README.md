@@ -1,8 +1,8 @@
-# Project_poster_patient_no_show_problem
+# Patients No-show Problem Poster Project
 
-[poster pdf](https://github.com/cpkoywk/project_poster_patient_no_show/blob/master/Poster.pdf)
+[Poster pdf](https://github.com/cpkoywk/project_poster_patient_no_show/blob/master/Poster.pdf)
 
-[poster R Code](https://github.com/cpkoywk/project_poster_patient_no_show/blob/master/Poster%20Code.R)
+[Poster R Code](https://github.com/cpkoywk/project_poster_patient_no_show/blob/master/Poster%20Code.R)
 
 ## Data questions:
 Missing medical appointment has become a prevalent problems for the healthcare systems in many countries including the US, as missed appointments cost the U.S. healthcare system more than [$150 billion a year](http://www.postgazette.com/business/businessnews/2013/02/24/No-shows-cost-health-care-systembillions/stories/201302240381). As the politicians and the people of this country are always complaining about too much money spent on the healthcare, I want to explore what factors might contribute to the no-show problem to the medical appointments.
