@@ -1,5 +1,8 @@
 # Project_poster_patient_no_show_problem
-IST719 - Information Visualization - Spring 2017 @ Syracuse University w/ Prof. Hemsley
+
+[poster pdf](https://github.com/cpkoywk/project_poster_patient_no_show/blob/master/Poster.pdf)
+
+[poster R Code](https://github.com/cpkoywk/project_poster_patient_no_show/blob/master/Poster%20Code.R)
 
 ## Data questions:
 Missing medical appointment has become a prevalent problems for the healthcare systems in many countries including the US, as missed appointments cost the U.S. healthcare system more than [$150 billion a year](http://www.postgazette.com/business/businessnews/2013/02/24/No-shows-cost-health-care-systembillions/stories/201302240381). As the politicians and the people of this country are always complaining about too much money spent on the healthcare, I want to explore what factors might contribute to the no-show problem to the medical appointments.
@@ -14,9 +17,6 @@ week of the appointment, what kind of their appointment is, are they receiving g
 financial help on medical bills, whether the healthcare provides send them SMS reminder, etc.,
 and most importantly, whether they show up to the appointment or not.
 
+
 ## Poster Preview:
-![](https://github.com/cpkoywk/project_poster_patient_no_show/blob/master/Poster.png)
-
-[poster pdf](https://github.com/cpkoywk/project_poster_patient_no_show/blob/master/Poster.pdf)
-
-[poster R Code](https://github.com/cpkoywk/project_poster_patient_no_show/blob/master/Poster%20Code.R)
+![](https://github.com/cpkoywk/project_poster_patient_no_show/blob/master/Poster.jpg)
